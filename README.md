@@ -11,7 +11,6 @@
 
 
 **Author:** Mistress Elysia, Silmarien, Lava Del'Vortel, Kai of Candlekeep  
-**Mod Page:** <a href="http://www.spellholdstudios.net/ie/fade">Spellhold Studios</a><br /><br />
 **Mod Forum:** <a href="http://www.shsforums.net/forum/322-fade/">Fade NPC</a><br /><br />
 
 
